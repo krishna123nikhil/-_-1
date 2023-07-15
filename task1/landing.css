@@ -1,0 +1,190 @@
+  header{
+   width:100%;
+   height:100%;
+   background:url('aki');
+   background-size:cover;
+   font-family: sans-serif;
+   background-color:skyblue;
+   }
+   nav{
+	   width:100%;
+	   height:100px;
+	   color:navy;
+	   display:flex;
+	   justify-content: space-around;
+	   align-items:center;
+	   
+   }
+   .logo{
+	   background-color:none;
+    border:none;
+    position:absolute;
+    top:10;
+	left:20;
+	letter-spacing:1px;
+	font-size:50px;
+	color:gold;
+   }
+   .menu {
+    background-color:skyblue;
+    border:green groove;
+    position:absolute;
+	align:center;
+    top:30;
+	left:920;
+	height:50px;
+	
+	   
+   }
+ body {
+  background-color: skyblue;
+  font-family: cursive;
+}
+.glow{
+	   background-color:none;
+    border:none;
+    position:absolute;
+    top:130;
+	left:400;
+	letter-spacing:1px;
+	font-size:40px;
+	color:red;
+   }
+
+
+   .akash {
+    background-color:skyblue;
+    border:#87CEEB;
+    position:absolute;
+	align:center;
+    top:490;
+	left:100;
+	letter-spacing:2px;
+	font-size:20px;
+	width:150px;
+	
+	   
+   }
+   .aks{
+	    background-color:none;
+    border:none;
+    position:absolute;
+	align:center;
+	width:250px;
+	height:100px;
+	top:400;
+	left:50;
+   }
+   .tiru {
+    background-color:skyblue;
+    border:#87CEEB;
+    position:absolute;
+	align:center;
+    top:490;
+	left:470;
+	letter-spacing:2px;
+	font-size:20px;
+	width:150px;
+   }
+   .om{
+	    background-color:none;
+    border:none;
+    position:absolute;
+	align:center;
+	width:250px;
+	height:100px;
+	top:400;
+	left:420;
+   }
+   .ram {
+    background-color:skyblue;
+    border:#87CEEB;
+    position:absolute;
+	align:center;
+    top:490;
+	left:870;
+	letter-spacing:2px;
+	font-size:20px;
+	width:150px;
+   }
+   .rama{
+	    background-color:none;
+    border:none;
+    position:absolute;
+	align:center;
+	width:250px;
+	height:100px;
+	top:400;
+	left:820;
+   }
+   .men{
+	    background-color:none;
+    border:none;
+    position:absolute;
+	align:center;
+	width:250px;
+	height:110px;
+	top:700;
+	left:820;
+   }
+   .mens{
+	    background-color:none;
+    border:none;
+    position:absolute;
+	align:center;
+	width:250px;
+	height:110px;
+	top:800;
+	left:100;
+   }
+   .menss{
+	    background-color:none;
+    border:none;
+    position:absolute;
+	align:center;
+	width:250px;
+	height:150px;
+	top:900;
+	left:820;
+   }
+      .tiguide{
+	    background-color:none;
+    border:none;
+    position:absolute;
+	align:center;
+	width:250px;
+	height:110px;
+	top:700;
+	left:500;
+   }
+    .tiguide1{
+	    background-color:none;
+    border:none;
+    position:absolute;
+	align:center;
+	width:250px;
+	height:110px;
+	top:800;
+	left:300;
+   }
+    .tiguide2{
+	    background-color:none;
+    border:none;
+    position:absolute;
+	align:center;
+	width:250px;
+	height:110px;
+	top:900;
+	left:500;
+   }
+   .footer{
+	    background-color:none;
+    border:none;
+    position:absolute;
+	align:bottom;
+	width:none;
+	height:none;
+	top:900;
+	left:100;
+   }
+	   
